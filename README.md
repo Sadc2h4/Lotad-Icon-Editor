@@ -4,6 +4,10 @@
 <img width="1000" height="559" alt="Github_0" src="https://github.com/user-attachments/assets/c689273a-a502-4ec8-9f05-582ab99a1f74" />
 
 
+## ダウンロード
+[Release](https://github.com/Sadc2h4/Lotad-Icon-Editor/releases/tag/v2.0a)  
+[Pokemon Hack uploader](https://uu.getuploader.com/freehack/download/196)
+
 ## 概要
 本ツールの製作当初は『既存ポケモンのアイコン（アニメーション付き）を閲覧できるサイトが見つからなくなった』ことから  
 本家で使用されるvanillaのポケモン手持ちアイコンを一覧で並べて確認するために作成していました．  
@@ -108,5 +112,3 @@ Romモードの際に読み込む最大ID数を変えることが出来ます．
 
 ## 免責
 ・本ファイルを使用したことにより生じた損害については，一切の責任を負いません．  
-[test](https://qiita.com/kkkrikurikun/items/9c6eda66a2d91fc19cc1)
-https://qiita.com/kkkrikurikun/items/9c6eda66a2d91fc19cc1
