@@ -1,0 +1,187 @@
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\source\repos\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.button_import_Path.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\catso\Desktop\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\catso\Desktop\IconList_Animation2\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList.CECFF57B.Up2Date
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Buffers.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Memory.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Buffers.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Memory.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList.CECFF57B.Up2Date
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Buffers.dll
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Memory.dll
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Buffers.xml
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Memory.xml
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\catso\Desktop\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.SaveLocationDialog.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation3\IconList_Animation\obj\Debug\IconList_Animation.SaveLocationDialog.resources
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Buffers.dll
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Memory.dll
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Buffers.xml
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Memory.xml
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.SaveLocationDialog.resources
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList.CECFF57B.Up2Date
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Buffers.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Memory.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Buffers.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Memory.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.SaveLocationDialog.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList.CECFF57B.Up2Date
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Form_FootprintEditor.resources
+C:\Users\catso\Desktop\IconList_Animation4\IconList_Animation\obj\Debug\IconList_Animation.Form_FootprintEditor.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\System.Buffers.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\System.Memory.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Form_FootprintEditor.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.SaveLocationDialog.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList.CECFF57B.Up2Date
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\ja-JP\IconList_Animation.resources.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\ja-JP\IconList_Animation.resources.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.ja-JP.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.en.resources
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\bin\Debug\en\IconList_Animation.resources.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\en\IconList_Animation.resources.dll
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.Fody.CopyLocal.cache
+C:\Users\higa.SANGYOUI\OneDrive - さんぎょうい株式会社\デスクトップ\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\IconList_Animation.exe.config
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\System.Buffers.xml
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\System.Memory.xml
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.AssemblyReference.cache
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Main_Form.resources
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Form_FootprintEditor.resources
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Form_ImageViewer.resources
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.Properties.Resources.resources
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.SaveLocationDialog.resources
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.GenerateResource.cache
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.CoreCompileInputs.cache
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList.CECFF57B.Up2Date
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.exe
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.pdb
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.Fody.CopyLocal.cache
+C:\Users\catso\Desktop\IconList_Animation5\IconList_Animation\obj\Debug\IconList_Animation.csproj.Fody.RuntimeCopyLocal.cache
