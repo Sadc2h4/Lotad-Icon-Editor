@@ -7,7 +7,7 @@
 *.cache
 *.ide
 
-# 構成別ビルドフォルダ
+# 構成別ビルド
 [Dd]ebug/
 [Rr]elease/
 x64/
@@ -15,10 +15,18 @@ x86/
 
 # NuGet
 packages/
+!packages.config
 *.nupkg
-!packages.config   # ← これは残す
+*.snupkg
 
-# エディタ
+# テスト/解析
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+BenchmarkDotNet.Artifacts/
+
+# エディタ/IDE
 .vscode/
 .idea/
 
@@ -30,7 +38,7 @@ Thumbs.db
 .DS_Store
 desktop.ini
 
-# Python
+# ==== Python（混在する場合）====
 __pycache__/
 *.pyc
 .venv/
