@@ -5,8 +5,23 @@
 
 
 ## ダウンロード
-[Release](https://github.com/Sadc2h4/Lotad-Icon-Editor/releases/tag/v2.0a)  
-[Pokemon Hack uploader](https://uu.getuploader.com/freehack/download/196)  
+
+<a href="https://github.com/Sadc2h4/Lotad-Icon-Editor/releases/tag/v2.0a">
+  <img
+    src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_1.png"
+    alt="Download .zip"
+    height="48"
+  />
+</a>
+<br>
+<a href="https://uu.getuploader.com/freehack/download/196">
+  <img
+    src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_2.png"
+    alt="Download .zip"
+    height="48"
+  />
+</a>
+
 <br>
 [本エディタで使用可能なGen1~9までの手持ちアイコン集](https://uu.getuploader.com/freehack/download/194)
 <br>
